@@ -1,8 +1,8 @@
-version: 3.2.1
+version: 3.2.3
 files:
-  - url: https://github.com/isvidabogdan/vida-shifts-updates/releases/download/individual-v3.2.1/VidaShifts-Setup-3.2.1-x64.exe
-    sha512: IUaG1oxNutNK4T3GtyaqGgkdFM73uUtpl4GOJLBh/jMybvexTq5lMxzDrnD5M5JOXBI456weCzLAR+sMSZYqgg==
-    size: 127747793
-path: https://github.com/isvidabogdan/vida-shifts-updates/releases/download/individual-v3.2.1/VidaShifts-Setup-3.2.1-x64.exe
-sha512: IUaG1oxNutNK4T3GtyaqGgkdFM73uUtpl4GOJLBh/jMybvexTq5lMxzDrnD5M5JOXBI456weCzLAR+sMSZYqgg==
-releaseDate: 2026-10-30T04:43:02.317Z
+  - url: https://github.com/isvidabogdan/vida-shifts-updates/releases/download/individual-v3.2.3/VidaShifts-Setup-3.2.3-x64.exe
+    sha512: bnn01SWgRid7Vo4lFoPBA1+bvbi1WcttmvEe4879/P/vrMxtcW2Bie87xoLknNyjREmtbAG0GAHMoipxq8UIgw==
+    size: 127759284
+path: https://github.com/isvidabogdan/vida-shifts-updates/releases/download/individual-v3.2.3/VidaShifts-Setup-3.2.3-x64.exe
+sha512: bnn01SWgRid7Vo4lFoPBA1+bvbi1WcttmvEe4879/P/vrMxtcW2Bie87xoLknNyjREmtbAG0GAHMoipxq8UIgw==
+releaseDate: 2026-10-30T17:25:50.290Z
